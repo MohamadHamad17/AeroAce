@@ -36,7 +36,7 @@ Before you begin, ensure you have the following installed:
 1. Navigate to the project directory.
 2. Run the game:
     ```bash
-    python3 flappy_bird.py
+    python3 main.py
     ```
 <img width="397" alt="Screenshot 2024-08-05 at 9 57 07 AM" src="https://github.com/user-attachments/assets/e56d3d92-5af6-4e91-b2f6-67eb6717ba60">
 
